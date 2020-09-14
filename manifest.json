@@ -1,0 +1,16 @@
+{
+    "name": "拖延症",
+    "short_name": "拖延症",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "theme_color": "#03081A",
+    "icons": [
+        {
+            "src": "/assets/images/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
